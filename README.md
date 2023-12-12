@@ -10,13 +10,13 @@
 
 실행 화면</br>
 
-펜 구현
+1. 펜 구현 (PenPaint)
 ![Image description](./pen.PNG)</br>
 
-버튼 구현
+2. 버튼 구현 (BgLabelControlApp)
 ![Image description](./btn.PNG)</br>
 
-사진 뷰어 구현
+사진 뷰어 구현 (
 ![Image description](./simplephotos.PNG)</br>
 
 사진 에디터 구현
