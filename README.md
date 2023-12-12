@@ -484,5 +484,5 @@ namespace winrt::SimplePhotos::implementation
 ```
 
 실행 화면
-![Image description](./2.PNG)</br>
+![Image description](./simplephotos.PNG)</br>
 
