@@ -16,10 +16,10 @@
 2. 버튼 구현 (BgLabelControlApp)
 ![Image description](./btn.PNG)</br>
 
-사진 뷰어 구현 (
+사진 뷰어 구현 (SimplePhotos)
 ![Image description](./simplephotos.PNG)</br>
 
-사진 에디터 구현
+사진 에디터 구현 (PhotoEditor-master)
 ![Image description](./photoedit.PNG)</br>
 
 모두 실행 되었습니다. 
