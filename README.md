@@ -22,4 +22,5 @@
 사진 에디터 구현 (PhotoEditor-master)
 ![Image description](./photoedit.PNG)</br>
 
-모두 실행 되었습니다. 
+모두 실행 되었습니다.  
+simplephotos 는 배포, 정리, 빌드 후 프로젝트를 껐다 다시 켜니 실행됩니다. 
